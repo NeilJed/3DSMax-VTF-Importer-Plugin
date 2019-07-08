@@ -19,6 +19,7 @@ Textures are converted to and loaded as 32-bit RGBA into Max.
 * 3DS Max 2017 - 64bit
 * 3DS Max 2018 - 64bit
 * 3DS Max 2019 - 64bit
+* 3DS Max 2020 - 64bit
 
 ## Installation
 
@@ -32,7 +33,7 @@ For Max 2017 onwards, which are 64-bit by default, the plugin filename is `VTFIm
 
 ### VTF Lib
 
-This plug-in requres [VTF Lib](https://github.com/NeilJed/VTFLib) which can be found in the `VTFLib` folder. Copy the correct version for version of 3DS Max and place it in the program folder, i.e. `C:\Program Files\Autodesk\3ds Max 2019`
+This plug-in requres [VTF Lib](https://github.com/NeilJed/VTFLib) which can be found in the `VTFLib` folder. Copy the correct file for your version of 3DS Max and place it in the program folder, i.e. `C:\Program Files\Autodesk\3ds Max 2019`
 
 ## Basic usage
 Once installed you should be able to use VTF file as an image type for textures.

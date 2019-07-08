@@ -2,6 +2,9 @@
 
 ## Changelog
 
+### 1.7.5-rev2
+* Updated release with Max 2020 support.
+
 ### 1.7.5
 * Updated release with Max 2017/2018/2019 support.
 * Added support for Max 2012.
